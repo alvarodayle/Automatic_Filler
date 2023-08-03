@@ -1,4 +1,7 @@
+
 #include <Stepper.h>
+
+//----Definindo as respectivas conexões nos pinos do Arduino
 
 #define Sensor1    0  
 #define Sensor2    5   
@@ -18,6 +21,8 @@ int tamanho = 0;
 
 void setup() {
 
+ //----Definindo cada conexão como entrada ou saída de sinal
+ 
  pinMode (Sensor1,    INPUT_PULLUP);
  pinMode (Sensor2,    INPUT_PULLUP); 
  pinMode (Sensorbico, INPUT_PULLUP);
@@ -37,7 +42,7 @@ void loop(){
    estadosensor2    = digitalRead(Sensor2);
    estadosensorbico = digitalRead(Sensorbico);
 
-//------------ Indentificação dos tamanhos -----------------
+//----Indentificação dos tamanhos
 
 if(estadosensor1 == HIGH){}
 
@@ -54,7 +59,7 @@ else{
   }
 }
 
-//----- Proscessos de parada e envase das garrafas ----------
+//----Proscessos de parada e envase das garrafas
 
 if(estadosensorbico == HIGH){
   digitalWrite(Esteira, HIGH);

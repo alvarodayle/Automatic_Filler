@@ -34,9 +34,9 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 
 <br />
 
-**Funcionamento:** Uma garrafa vazia é colocada para ser envasada, a garrafa passa pelos sensores principais que vão identificar o tamanho da mesma, ao chegar no último sensor responsável por parar a esteira a garrafa é posicionada logo abaixo do bico injetor para iniciar o processo de envase do líquido, conforme já identificado o respectivo tamanho o bico injetor irá descer até a posição correta e a bomba de líquido permanecerá aberta (enchendo a garrafa) durante um tempo pré definido, após isso a garrafa já recebeu o líquido e seguiria até o processo final para ser embalada.
-
 **Operation:** An empty bottle is placed to be filled. The bottle passes through the main sensors that will identify its size. When it reaches the last sensor, responsible for stopping the conveyor belt, the bottle is positioned just below the injector nozzle to begin the liquid filling process. Once the respective size has been identified, the injector nozzle will descend to the correct position, and the liquid pump will remain open (filling the bottle) for a predefined period. Afterward, the bottle has received the liquid and continues to the final process for packaging.
+
+**Funcionamento:** Uma garrafa vazia é colocada para ser envasada, a garrafa passa pelos sensores principais que vão identificar o tamanho da mesma, ao chegar no último sensor responsável por parar a esteira a garrafa é posicionada logo abaixo do bico injetor para iniciar o processo de envase do líquido, conforme já identificado o respectivo tamanho o bico injetor irá descer até a posição correta e a bomba de líquido permanecerá aberta (enchendo a garrafa) durante um tempo pré definido, após isso a garrafa já recebeu o líquido e seguiria até o processo final para ser embalada.
 
 <br />
 

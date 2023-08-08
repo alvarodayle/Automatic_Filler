@@ -45,7 +45,7 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 <br />
 
 <div>
-  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/f87d7d5c-45ca-4b56-b994-42c2297e6583" width="50%" height="50%" > 
+  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/f87d7d5c-45ca-4b56-b994-42c2297e6583" width="80%" height="80%" > 
 </div>
 
 <br />
@@ -55,7 +55,7 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 <br />
 
 <div>
-  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/4b328c1e-e046-48ef-bfe9-17057950ef25.png" width="50%" height="50%" >
+  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/4b328c1e-e046-48ef-bfe9-17057950ef25.png" width="80%" height="80%" >
 </div>
 
 **Project Overview**
@@ -64,7 +64,7 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 <br />
 
 <div>
-  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/c9e35ef1-c54e-43d8-81f4-2732ff4c7fb6.png" width="50%" height="50%" >
+  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/c9e35ef1-c54e-43d8-81f4-2732ff4c7fb6.png" width="80%" height="80%" >
 </div>
 
 **Voltage Regulator Board**
@@ -73,7 +73,7 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 <br />
 
 <div>
-  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/78ac4e3e-b0b1-4bfc-97f5-0a65fe4c3bb4.png" width="50%" height="50%" >
+  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/78ac4e3e-b0b1-4bfc-97f5-0a65fe4c3bb4.png" width="80%" height="80%" >
 </div>
 
 **Motor DC Controller Board**
@@ -85,7 +85,7 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 <br />
 
 <div>
-  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/6ca365d5-d710-464f-9c77-0957fec383a7.png" width="50%" height="50%" >
+  <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/6ca365d5-d710-464f-9c77-0957fec383a7.png" width="80%" height="80%" >
 </div>
 
 <br />

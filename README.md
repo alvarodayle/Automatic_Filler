@@ -61,7 +61,6 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 **Project Overview**
 
 <br />
-<br />
 
 <div>
   <img src="https://github.com/alvarodayle/Automatic_Filler/assets/116722232/c9e35ef1-c54e-43d8-81f4-2732ff4c7fb6.png" width="80%" height="80%" >
@@ -69,7 +68,6 @@ https://github.com/alvarodayle/Automatic_Filler/assets/116722232/72ddafa9-a95a-4
 
 **Voltage Regulator Board**
 
-<br />
 <br />
 
 <div>
